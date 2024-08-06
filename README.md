@@ -33,7 +33,7 @@ Here are some packages you need to have installed on your PC:
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/yourusername/event-ticketing-dapp.git
+   git clone https://github.com/ellathedevgirl/event-tracking-dapp
    ```
 2. Install NPM packages
    ```sh
